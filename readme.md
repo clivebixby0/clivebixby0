@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%26+Computer+Science+Student;Full-Stack+Developer;Lifelong+Learner" alt="Typing SVG" />
 
-### 🎓 3rd Year Computer Science Student at Mapúa University
+### 🎓 Computer Science Graduate from Mapúa University
 ### 🤖 Specializing in Artificial Intelligence
 
 <img src="https://komarev.com/ghpvc/?username=clivebixby0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
